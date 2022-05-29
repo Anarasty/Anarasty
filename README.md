@@ -3,9 +3,18 @@
     <img src="assets/prog-gif1.gif"/>
 </p>
 
-About me
+## Hello, my name is Nika and I'm a begginer front-end developer  
 
-Language ang tools
+<hr>
+Languages ang tools <br>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/> 
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=2965f1"/>
+<img src="https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass"/>
+<img src="https://img.shields.io/badge/PHOTOSHOP 2020-000000?style=for-the-badge&logo=adobephotoshop"/>
+
+<!-- &logoColor= -->
+
 
 Socials
 
