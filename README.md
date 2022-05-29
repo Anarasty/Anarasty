@@ -19,6 +19,7 @@
 <a href="https://discord.com/users/386851456835125249"><img src="https://img.shields.io/badge/DISCORD-ffffff?style=for-the-badge&logo=discord"/></a>
 <a href="https://www.reddit.com/user/Anarasty"><img src="https://img.shields.io/badge/REDDIT-ffffff?style=for-the-badge&logo=reddit"/></a>
 <a href="https://steamcommunity.com/id/anarasty/"><img src="https://img.shields.io/badge/Steam-ffffff?style=for-the-badge&logo=steam&logoColor=000000"/></a>
+<a href="https://www.linkedin.com/in/veronica-minaeva-91b00b1b6/"><img src="https://img.shields.io/badge/LinkedIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 
 <!--
 **Anarasty/Anarasty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
