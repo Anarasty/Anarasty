@@ -6,7 +6,7 @@
 ## Hello, my name is Nika and I'm a begginer front-end developer  
 
 <hr>
-<h3>Languages ang tools</h3><br>
+<h2>Languages ang tools</h2>
 <span><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/></span> 
 <span><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5"/></span> 
 <span><img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=2965f1"/></span> 
