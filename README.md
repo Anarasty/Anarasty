@@ -21,6 +21,9 @@
 <a href="https://steamcommunity.com/id/anarasty/"><img src="https://img.shields.io/badge/Steam-ffffff?style=for-the-badge&logo=steam&logoColor=000000"/></a>
 <a href="https://www.linkedin.com/in/veronica-minaeva-91b00b1b6/"><img src="https://img.shields.io/badge/LinkedIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 
+
+## Statistics
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anarasty)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Anarasty/Anarasty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
