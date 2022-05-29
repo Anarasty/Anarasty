@@ -13,10 +13,10 @@
 <span><img src="https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass"/></span> 
 <span><img src="https://img.shields.io/badge/PHOTOSHOP 2020-000000?style=for-the-badge&logo=adobephotoshop"/></span>
 
+<hr>
+<h2>Socials</h2>
 <!-- &logoColor= -->
-
-
-Socials
+<a href="https://discord.com"><img src="https://img.shields.io/badge/PHOTOSHOP 2020-000000?style=for-the-badge&logo=adobephotoshop"/></a>
 
 <!--
 **Anarasty/Anarasty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
