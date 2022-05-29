@@ -5,7 +5,7 @@
 
 ## Hello, my name is Nika and I'm a begginer front-end developer  
 
-<hr>
+
 <h2>Languages ang tools</h2>
 <span><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/></span> 
 <span><img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5"/></span> 
@@ -13,7 +13,7 @@
 <span><img src="https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass"/></span> 
 <span><img src="https://img.shields.io/badge/PHOTOSHOP 2020-000000?style=for-the-badge&logo=adobephotoshop"/></span>
 
-<hr>
+
 <h2>Socials</h2>
 <!-- &logoColor= -->
 <a href="https://discord.com/users/386851456835125249"><img src="https://img.shields.io/badge/DISCORD-ffffff?style=for-the-badge&logo=discord"/></a>
