@@ -1,4 +1,7 @@
-[![Header](https://github.com/Anarasty/Anarasty/blob/main/assets/prog-gif1.gif)](https://github.com/Anarasty)
+<!-- [![Header](https://github.com/Anarasty/Anarasty/blob/main/assets/prog-gif1.gif)](https://github.com/Anarasty) -->
+<p align="center">
+    <img src="assets/prog-gif1.gif"/>
+</p>
 
 About me
 
