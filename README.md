@@ -32,18 +32,13 @@
 </p>
 
 ## Statistics
-
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anarasty)](https://github.com/anuraghazra/github-readme-stats)
-
-
-------------------
+------------------ -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anarasty&show_icons=true&locale=en&layout=compact" alt="anarasty" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anarasty&show_icons=true&locale=en" alt="anarasty" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anarasty&" alt="anarasty" /></p>
-
 <!--
 **Anarasty/Anarasty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
