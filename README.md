@@ -25,15 +25,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@anarasty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@anarasty" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/veronica-minaeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veronica-minaeva" height="30" width="40" /></a>
+<a href="https://codepen.io/Anarasty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@anarasty" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/veronica-minaeva-91b00b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veronica-minaeva" height="30" width="40" /></a>
 <a href="https://instagram.com/anarasty_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anarasty_c" height="30" width="40" /></a>
-<a href="https://discord.gg/Anarasty#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anarasty#0001" height="30" width="40" /></a>
+<a href="https://discord.com/users/386851456835125249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Anarasty#0001" height="30" width="40" /></a>
 </p>
 
 ## Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anarasty)](https://github.com/anuraghazra/github-readme-stats)
+
+
+------------------
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anarasty&show_icons=true&locale=en&layout=compact" alt="anarasty" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anarasty&show_icons=true&locale=en" alt="anarasty" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anarasty&" alt="anarasty" /></p>
+
 <!--
 **Anarasty/Anarasty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
