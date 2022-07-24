@@ -3,7 +3,7 @@
     <img src="assets/prog-gif1.gif"/>
 </p>
 
-## Hello, my name is Nika and I'm a begginer front-end developer  
+<!--## Hello, my name is Nika and I'm a begginer front-end developer  -->
 
 
 <!-- <h2>Languages ang tools</h2>
