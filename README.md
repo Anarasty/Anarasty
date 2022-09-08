@@ -23,7 +23,7 @@
 <a href="https://steamcommunity.com/id/anarasty/"><img src="https://img.shields.io/badge/Steam-ffffff?style=for-the-badge&logo=steam&logoColor=000000"/></a>
 <a href="https://www.linkedin.com/in/veronica-minaeva-91b00b1b6/"><img src="https://img.shields.io/badge/LinkedIN-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a> -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://codepen.io/Anarasty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@anarasty" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/veronica-minaeva-91b00b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veronica-minaeva" height="30" width="40" /></a>
