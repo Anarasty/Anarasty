@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="60%">
-      <h1>About Me 🪶</h1>
+      <h1>About Me</h1>
       <p align="justify">Hi! I'm a frontend developer who loves creating beautiful and user-friendly interfaces. Currently, I'm diving deeper into TypeScript and Next.js. I'm always excited to take part in interesting projects, solve unconventional challenges, and keep learning new things. If you're passionate about frontend too – let's connect and code together!</p>
     </td>
     <td>
