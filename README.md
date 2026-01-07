@@ -86,6 +86,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Anarasty&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false" />
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=Anarasty&theme=vision-friendly-dark&hide_border=false" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Anarasty&show_icons=true&theme=vision-friendly-dark" />
   
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anarasty&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> -->
   
