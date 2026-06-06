@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/whiskey.gif" alt="mainImg" width="auto" style="max-width:800px;" />
+  <img src="assets/whiskey.gif" alt="mainImg" width="600px" />
 </p>
 
 <div align="center">
@@ -10,7 +10,7 @@
 <table width="100%" style="border: 0; border-collapse: collapse;">
   <tr>
     <td width="50%" valign="middle" align="center" style="border: 0;">
-      <img src="assets/owl.jpg" alt="Owl" width="100%" style="aspect-ratio: 1 / 1; object-fit: cover;" />
+      <img src="assets/owl.jpg" alt="Owl" width="50%" style="aspect-ratio: 1 / 1; object-fit: cover;" />
     </td>
     <td width="50%" valign="top" style="border: 0;">
       <div align="justify">
@@ -21,7 +21,7 @@
    </tr>
 </table>
 
-<br/>
+<!--<br/> -->
 
 <!-- <div>
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%E6%84%9B&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0:e82b0e,100:7a0000" />
@@ -32,7 +32,7 @@
   <div style="border: solid 1px rgb(232, 43, 14);"></div>
 </div>
 
-<br/>
+<!--<br/> -->
 
 <div align="center">
    <a href="https://www.linkedin.com/in/veronika-minaieva-fe-work/"><img src="https://img.shields.io/badge/LinkedIn-e82b0e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white"></a>
@@ -74,6 +74,7 @@
   </tr>
 </table>
 
+<br/>
 
 <div align="center">
   <a href="https://github.com/Anarasty">
