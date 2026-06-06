@@ -11,7 +11,7 @@
   <tr>
     <td width="50%" valign="middle" align="center" style="border: 0;">
       <!-- <img src="assets/owl.jpg" alt="Owl" width="50%" style="aspect-ratio: 1 / 1; object-fit: cover;" /> -->
-      <img src="assets/lichRed.gif" alt="lichRed" width="60%" style="aspect-ratio: 1 / 1; object-fit: cover;" />
+      <img src="assets/lichRed.gif" alt="lichRed" width="70%" style="aspect-ratio: 1 / 1; object-fit: cover;" />
     </td>
     <td width="50%" valign="top" style="border: 0;">
       <div align="justify">
