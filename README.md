@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/whiskey.gif" alt="mainImg" width="100%" />
+  <img src="assets/whiskey.gif" alt="mainImg" width="auto" style="max-width:800px;" />
 </p>
 
 <div align="center">
