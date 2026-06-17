@@ -64,13 +64,13 @@
   <tr>
     <td align="center" style="padding: 12px; border: 1px solid rgb(232, 43, 14);"><strong>Backend &amp; Database</strong></td>
     <td style="padding: 8px; border: 1px solid rgb(232, 43, 14);">
-      <img src="https://skillicons.dev/icons?i=graphql,go,mongodb,mysql,nodejs,postgres,py,sqlite,supabase" />
+      <img src="https://skillicons.dev/icons?i=graphql,go,mongodb,mysql,nodejs,postgres,py,sqlite,supabase,firebase" />
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 12px; border: 1px solid rgb(232, 43, 14);"><strong>DevOps &amp; Tools</strong></td>
     <td style="padding: 8px; border: 1px solid rgb(232, 43, 14);">
-      <img src="https://skillicons.dev/icons?i=aws,babel,cloudflare,docker,firebase,git,heroku,netlify,obsidian,notion,npm,pnpm,postman,vercel,vite,webpack,sentry,prisma" />
+      <img src="https://skillicons.dev/icons?i=aws,babel,cloudflare,docker,git,heroku,netlify,obsidian,notion,npm,pnpm,postman,vercel,vite,webpack,sentry,prisma" />
     </td>
   </tr>
 </table>
